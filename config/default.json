@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://stan14:stan14@devsmeet.lek4i.mongodb.net/test?retryWrites=true&w=majority&ssl=true",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId": "3d87724af86fc2d6e1cb",
+    "githubSecret": "61b983ca6eb2b18de9dfb9d6c17fd70693fc56b3"
+}
